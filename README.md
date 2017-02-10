@@ -2,6 +2,6 @@
 resume webapp created with tempo.js and jquery
 
 
-***DEMO
+###DEMO
 
 https://angeal185.github.io/tempo.js-jquery-resume-webapp/
