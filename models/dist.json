@@ -1,0 +1,461 @@
+﻿/*first*/
+var aside = 
+{
+	"label":"Personal Resume",
+	"name":"Ben Eaves",
+	"contact":"#",
+	"download":"#"
+};
+
+var profile = 
+{
+	"image":"images/portrait.jpg",
+	"name":"ben eaves",
+	"job":"Web Developer",
+	"location":"Melbourne, Australia"
+};
+
+var navigation = [
+	{"href":"1","title":"ABOUT","icon":"home"},
+	{"href":"2","title":"RESUME","icon":"newspaper-o"},
+	{"href":"3","title":"SERVICES","icon":"laptop"},
+	{"href":"4","title":"PROCESS","icon":"users"},
+	{"href":"5","title":"SKILLS","icon":"diamond"},
+	{"href":"6","title":"WORKS","icon":"archive"},
+	{"href":"7","title":"CONTACT","icon":"paper-plane"}
+];
+
+var social = [
+	{"href":"#","icon":"facebook"},
+	{"href":"#","icon":"twitter"},
+	{"href":"#","icon":"linkedin"},
+	{"href":"#","icon":"codepen"},
+	{"href":"#","icon":"github"}
+];
+
+var news = [
+	{"info":"Lorem ipsum dolor sit amet, sea at esse euismod patrioque, omnis accumsan oporteat ex vis. Graece aliquid ut nec, illud postea sed in. Has et quidam nostro, sit graeci fastidii appetere et, id duo adipisci ullamcorper complectitur. Nominati dissentiunt te his, ferri autem malorum mei ne. Per alterum lucilius deseruisse ex, civibus nominavi explicari ius ex, quem nullam putent pri in."},
+	{"info":"Lorem ipsum dolor sit amet, sea at esse euismod patrioque, omnis accumsan oporteat ex vis. Graece aliquid ut nec, illud postea sed in. Has et quidam nostro, sit graeci fastidii appetere et, id duo adipisci ullamcorper complectitur. Nominati dissentiunt te his, ferri autem malorum mei ne. Per alterum lucilius deseruisse ex, civibus nominavi explicari ius ex, quem nullam putent pri in."},
+	{"info":"Lorem ipsum dolor sit amet, sea at esse euismod patrioque, omnis accumsan oporteat ex vis. Graece aliquid ut nec, illud postea sed in. Has et quidam nostro, sit graeci fastidii appetere et, id duo adipisci ullamcorper complectitur. Nominati dissentiunt te his, ferri autem malorum mei ne. Per alterum lucilius deseruisse ex, civibus nominavi explicari ius ex, quem nullam putent pri in."},
+	{"info":"Lorem ipsum dolor sit amet, sea at esse euismod patrioque, omnis accumsan oporteat ex vis. Graece aliquid ut nec, illud postea sed in. Has et quidam nostro, sit graeci fastidii appetere et, id duo adipisci ullamcorper complectitur. Nominati dissentiunt te his, ferri autem malorum mei ne. Per alterum lucilius deseruisse ex, civibus nominavi explicari ius ex, quem nullam putent pri in."},
+	{"info":"Lorem ipsum dolor sit amet, sea at esse euismod patrioque, omnis accumsan oporteat ex vis. Graece aliquid ut nec, illud postea sed in. Has et quidam nostro, sit graeci fastidii appetere et, id duo adipisci ullamcorper complectitur. Nominati dissentiunt te his, ferri autem malorum mei ne. Per alterum lucilius deseruisse ex, civibus nominavi explicari ius ex, quem nullam putent pri in."}
+];
+
+/*second*/
+
+var aboutCard =
+	{
+	"location":"Melbourne, Australia",
+	"email":"beneaves01@hotmail.com",
+	"phone":"000-000-000",
+	"labelA":"Developer",
+	"labelB":"Designer",
+	"labelC":"Programmer",
+	"labelD":"Researcher",
+	"labelE":"Lecturer",
+	"available":"Full-Time"
+	};
+	
+var aboutTab = [
+	{"class":"","name":"facts"},
+	{"class":"","name":"bio"},
+	{"class":"","name":"hobbies"}
+	];
+	
+var aboutFacts = [
+	{"icon":"cup","number":"999","title":"title 1"},
+	{"icon":"bulb","number":"500","title":"title 2"},
+	{"icon":"clock","number":"700","title":"title 3"},
+	{"icon":"cup","number":"900","title":"title 4"},
+	{"icon":"bulb","number":"888","title":"title 5"},
+	{"icon":"clock","number":"777","title":"title 6"}
+	];
+
+var aboutBio = [
+	{"about":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo.Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo.Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo."}
+	];
+	
+var aboutHobbies = [
+	{"icon":"cup","description":"Duis eu finibus urna. Pellentesque facilisis tellus vel leo accumsan, a tristique est luctus. Morbi quis euismod nulla. Sed eu nibh eros."},
+	{"icon":"pen","description":"Duis eu finibus urna. Pellentesque facilisis tellus vel leo accumsan, a tristique est luctus. Morbi quis euismod nulla. Sed eu nibh eros."},
+	{"icon":"tv","description":"Duis eu finibus urna. Pellentesque facilisis tellus vel leo accumsan, a tristique est luctus. Morbi quis euismod nulla. Sed eu nibh eros."},
+	{"icon":"shop","description":"Duis eu finibus urna. Pellentesque facilisis tellus vel leo accumsan, a tristique est luctus. Morbi quis euismod nulla. Sed eu nibh eros."}
+	];
+	
+/*third*/
+
+var resumeEdu = [
+	{"icon":"graduation-cap","from":"2001","till":"2002","location":"location a","header":"header c","title":"title a","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"graduation-cap","from":"2002","till":"2003","location":"location b","header":"header b","title":"title b","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"graduation-cap","from":"2020","till":"2050","location":"location c","header":"header a","title":"title c","description":"dolor sit amet, sea at esse euismo"},
+	];
+	
+var resumeExp = [
+	{"icon":"briefcase","from":"2001","till":"2002","location":"location a","header":"header a","title":"title a","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"briefcase","from":"2002","till":"2003","location":"location b","header":"header b","title":"title b","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"briefcase","from":"2020","till":"2050","location":"location c","header":"header c","title":"title c","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"briefcase","from":"2001","till":"2002","location":"location d","header":"header d","title":"title d","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"briefcase","from":"2002","till":"2003","location":"location e","header":"header e","title":"title e","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"briefcase","from":"2020","till":"2050","location":"location f","header":"header f","title":"title f","description":"dolor sit amet, sea at esse euismo"},
+	];
+	
+/*four*/
+var services = [
+	{
+	"icon":"dashboard",
+	"header":"esse euismod",
+	"description":"Has et quidam nostro",
+	"title":"Services",
+	"list1":"List item 1",
+	"list2":"List item 2",
+	"list3":"List item 3",
+	"list4":"List item 4",
+	"list5":"List item 5",
+	"list6":"List item 6",
+	"list7":"List item 7",
+	"list8":"List item 8"
+	},
+	{
+	"icon":"code",
+	"header":"esse euismod",
+	"description":"Has et quidam nostro",
+	"title":"Services",
+	"list1":"List item 1",
+	"list2":"List item 2",
+	"list3":"List item 3",
+	"list4":"List item 4",
+	"list5":"List item 5",
+	"list6":"List item 6",
+	"list7":"List item 7",
+	"list8":"List item 8"
+	},
+	{
+	"icon":"eye",
+	"header":"esse euismod",
+	"description":"Has et quidam nostro",
+	"title":"Services",
+	"list1":"List item 1",
+	"list2":"List item 2",
+	"list3":"List item 3",
+	"list4":"List item 4",
+	"list5":"List item 5",
+	"list6":"List item 6",
+	"list7":"List item 7",
+	"list8":"List item 8"
+	},
+	{
+	"icon":"cog",
+	"header":"esse euismod",
+	"description":"Has et quidam nostro",
+	"title":"Services",
+	"list1":"List item 1",
+	"list2":"List item 2",
+	"list3":"List item 3",
+	"list4":"List item 4",
+	"list5":"List item 5",
+	"list6":"List item 6",
+	"list7":"List item 7",
+	"list8":"List item 8"
+	}
+];
+
+var testimonials = [
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Jhon Smith"
+	},
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Jack Smith"
+	},
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Jill Smith"
+	},
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Frank Smith"
+	},
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Joe Smith"
+	},
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Jane Smith"
+	}
+];
+
+/*five*/
+
+var progressbar = [
+	{"class":"active","name":"IDEA"},
+	{"class":"","name":"DESIGN"},
+	{"class":"","name":"DEVELOP"},
+	{"class":"","name":"DELIVER"}
+	];
+
+var progresscon = [
+	{
+	"description1":
+	"consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor"
+	,
+	"description2":
+	"consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor"
+	,
+	"description3":
+	"consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor"
+	,
+	"description4":
+	"consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor"
+	}
+];
+
+var team = [
+	{
+	"class":"1",
+	"name":"John Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+	{
+	"class":"1",
+	"name":"Jack Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+	{
+	"class":"1",
+	"name":"Jill Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+	{
+	"class":"1",
+	"name":"Jane Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+	{
+	"class":"1",
+	"name":"Frank Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+	{
+	"class":"1",
+	"name":"Joe Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+];
+
+/*six*/
+var skills = [
+	{
+	"title":"title 1",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"90",
+	"level":"ADVANCED",
+	"years":"2",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+	{
+	"title":"title 2",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"80",
+	"level":"ADVANCED",
+	"years":"8",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+	{
+	"title":"title 3",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"70",
+	"level":"EXPERT",
+	"years":"3",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+	{
+	"title":"title 4",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"60",
+	"level":"EXPERT",
+	"years":"4",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+	{
+	"title":"title 5",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"70",
+	"level":"EXPERT",
+	"years":"6",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+	{
+	"title":"title 6",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"80",
+	"level":"EXPERT",
+	"years":"5",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+];	
+	
+/*seven*/
+var portfolio = [
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 1",
+	"title":"Title 1",
+	"number":"1",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	},
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 2",
+	"title":"Title 2",
+	"number":"2",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	},
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 3",
+	"title":"Title 3",
+	"number":"3",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	},
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 4",
+	"title":"Title 4",
+	"number":"4",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	},
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 5",
+	"title":"Title 5",
+	"number":"5",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	},
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 6",
+	"title":"Title 6",
+	"number":"6",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	}
+];
+
+/*eight*/
+
+var contact = 
+	{
+	"title":"Contact us",
+	"heading":"I hope to hear from you",
+	"subHeading":"consectetuer has, dicam volumus ei usu. Usu ullum dolorum et",
+	"submit":"SEND MESSAGE",
+	};

@@ -1,0 +1,76 @@
+﻿/*six*/
+var skills = [
+	{
+	"title":"title 1",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"90",
+	"level":"ADVANCED",
+	"years":"2",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+	{
+	"title":"title 2",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"80",
+	"level":"ADVANCED",
+	"years":"8",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+	{
+	"title":"title 3",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"70",
+	"level":"EXPERT",
+	"years":"3",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+	{
+	"title":"title 4",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"60",
+	"level":"EXPERT",
+	"years":"4",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+	{
+	"title":"title 5",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"70",
+	"level":"EXPERT",
+	"years":"6",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+	{
+	"title":"title 6",
+	"description":"dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor",
+	"percent":"80",
+	"level":"EXPERT",
+	"years":"5",
+	"label1":"JS",
+	"label2":"PYTHON",
+	"label3":"NODEJS",
+	"label4":"ANGULAR",
+	"label5":"JQUERY"
+	},
+]	
+	

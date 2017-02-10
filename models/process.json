@@ -1,0 +1,123 @@
+﻿/*five*/
+
+var progressbar = [
+	{"class":"active","name":"IDEA"},
+	{"class":"","name":"DESIGN"},
+	{"class":"","name":"DEVELOP"},
+	{"class":"","name":"DELIVER"}
+	];
+
+var progresscon = [
+	{
+	"description1":
+	"consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor"
+	,
+	"description2":
+	"consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor"
+	,
+	"description3":
+	"consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor"
+	,
+	"description4":
+	"consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivam fringilla quis sagittis in, sagittis inNam leo tortor"
+	}
+];
+
+var team = [
+	{
+	"class":"1",
+	"name":"John Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+	{
+	"class":"1",
+	"name":"Jack Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+	{
+	"class":"1",
+	"name":"Jill Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+	{
+	"class":"1",
+	"name":"Jane Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+	{
+	"class":"1",
+	"name":"Frank Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+	{
+	"class":"1",
+	"name":"Joe Smith",
+	"job":"Job title",
+	"description":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem",
+	"link1":"#",
+	"social1":"facebook",
+	"link2":"#",
+	"social2":"twitter",
+	"link3":"#",
+	"social3":"linkedin",
+	"link4":"#",
+	"social4":"codepen",
+	"link5":"#",
+	"social5":"github",
+	},
+];

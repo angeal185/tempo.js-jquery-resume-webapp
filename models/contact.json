@@ -1,0 +1,9 @@
+﻿/*eight*/
+
+var contact = 
+	{
+	"title":"Contact us",
+	"heading":"I hope to hear from you",
+	"subHeading":"consectetuer has, dicam volumus ei usu. Usu ullum dolorum et",
+	"submit":"SEND MESSAGE",
+	};

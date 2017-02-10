@@ -1,0 +1,40 @@
+﻿/*second*/
+
+var aboutCard =
+	{
+	"location":"Melbourne, Australia",
+	"email":"beneaves01@hotmail.com",
+	"phone":"000-000-000",
+	"labelA":"Developer",
+	"labelB":"Designer",
+	"labelC":"Programmer",
+	"labelD":"Researcher",
+	"labelE":"Lecturer",
+	"available":"Full-Time"
+	};
+	
+var aboutTab = [
+	{"class":"","name":"facts"},
+	{"class":"","name":"bio"},
+	{"class":"","name":"hobbies"}
+	];
+	
+var aboutFacts = [
+	{"icon":"cup","number":"999","title":"title 1"},
+	{"icon":"bulb","number":"500","title":"title 2"},
+	{"icon":"clock","number":"700","title":"title 3"},
+	{"icon":"cup","number":"900","title":"title 4"},
+	{"icon":"bulb","number":"888","title":"title 5"},
+	{"icon":"clock","number":"777","title":"title 6"}
+	];
+
+var aboutBio = [
+	{"about":"Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo.Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo.Lorem ipsum dolor sit amet, consectetur adipiscingVivam sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo."}
+	];
+	
+var aboutHobbies = [
+	{"icon":"cup","description":"Duis eu finibus urna. Pellentesque facilisis tellus vel leo accumsan, a tristique est luctus. Morbi quis euismod nulla. Sed eu nibh eros."},
+	{"icon":"pen","description":"Duis eu finibus urna. Pellentesque facilisis tellus vel leo accumsan, a tristique est luctus. Morbi quis euismod nulla. Sed eu nibh eros."},
+	{"icon":"tv","description":"Duis eu finibus urna. Pellentesque facilisis tellus vel leo accumsan, a tristique est luctus. Morbi quis euismod nulla. Sed eu nibh eros."},
+	{"icon":"shop","description":"Duis eu finibus urna. Pellentesque facilisis tellus vel leo accumsan, a tristique est luctus. Morbi quis euismod nulla. Sed eu nibh eros."}
+	];

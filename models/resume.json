@@ -1,0 +1,16 @@
+﻿/*third*/
+
+var resumeEdu = [
+	{"icon":"graduation-cap","from":"2001","till":"2002","location":"location a","header":"header c","title":"title a","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"graduation-cap","from":"2002","till":"2003","location":"location b","header":"header b","title":"title b","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"graduation-cap","from":"2020","till":"2050","location":"location c","header":"header a","title":"title c","description":"dolor sit amet, sea at esse euismo"},
+	];
+	
+var resumeExp = [
+	{"icon":"briefcase","from":"2001","till":"2002","location":"location a","header":"header a","title":"title a","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"briefcase","from":"2002","till":"2003","location":"location b","header":"header b","title":"title b","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"briefcase","from":"2020","till":"2050","location":"location c","header":"header c","title":"title c","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"briefcase","from":"2001","till":"2002","location":"location d","header":"header d","title":"title d","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"briefcase","from":"2002","till":"2003","location":"location e","header":"header e","title":"title e","description":"dolor sit amet, sea at esse euismo"},
+	{"icon":"briefcase","from":"2020","till":"2050","location":"location f","header":"header f","title":"title f","description":"dolor sit amet, sea at esse euismo"},
+	];

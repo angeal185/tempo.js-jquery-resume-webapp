@@ -1,0 +1,93 @@
+﻿/*four*/
+var services = [
+	{
+	"icon":"dashboard",
+	"header":"esse euismod",
+	"description":"Has et quidam nostro",
+	"title":"Services",
+	"list1":"List item 1",
+	"list2":"List item 2",
+	"list3":"List item 3",
+	"list4":"List item 4",
+	"list5":"List item 5",
+	"list6":"List item 6",
+	"list7":"List item 7",
+	"list8":"List item 8"
+	},
+	{
+	"icon":"code",
+	"header":"esse euismod",
+	"description":"Has et quidam nostro",
+	"title":"Services",
+	"list1":"List item 1",
+	"list2":"List item 2",
+	"list3":"List item 3",
+	"list4":"List item 4",
+	"list5":"List item 5",
+	"list6":"List item 6",
+	"list7":"List item 7",
+	"list8":"List item 8"
+	},
+	{
+	"icon":"eye",
+	"header":"esse euismod",
+	"description":"Has et quidam nostro",
+	"title":"Services",
+	"list1":"List item 1",
+	"list2":"List item 2",
+	"list3":"List item 3",
+	"list4":"List item 4",
+	"list5":"List item 5",
+	"list6":"List item 6",
+	"list7":"List item 7",
+	"list8":"List item 8"
+	},
+	{
+	"icon":"cog",
+	"header":"esse euismod",
+	"description":"Has et quidam nostro",
+	"title":"Services",
+	"list1":"List item 1",
+	"list2":"List item 2",
+	"list3":"List item 3",
+	"list4":"List item 4",
+	"list5":"List item 5",
+	"list6":"List item 6",
+	"list7":"List item 7",
+	"list8":"List item 8"
+	}
+];
+
+var testimonials = [
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Jhon Smith"
+	},
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Jack Smith"
+	},
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Jill Smith"
+	},
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Frank Smith"
+	},
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Joe Smith"
+	},
+	{
+	"img":"images/portrait.jpg",
+	"description":"Nominati dissentiunt te. Has et quidam nostro",
+	"name":"Jane Smith"
+	}
+]	
+	

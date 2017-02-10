@@ -1,0 +1,57 @@
+﻿/*seven*/
+var portfolio = [
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 1",
+	"title":"Title 1",
+	"number":"1",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	},
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 2",
+	"title":"Title 2",
+	"number":"2",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	},
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 3",
+	"title":"Title 3",
+	"number":"3",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	},
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 4",
+	"title":"Title 4",
+	"number":"4",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	},
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 5",
+	"title":"Title 5",
+	"number":"5",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	},
+	{
+	"thumb":"images/portfolio/1-thumb.jpg",
+	"label":"Label 6",
+	"title":"Title 6",
+	"number":"6",
+	"img":"http://placehold.it/560x420",
+	"description":"Etiam melius lobortis vis ei, solum eirmod mandamus has cu. Vel ne quis choro, graeci quodsi sed ea. Ornatus epicuri id per, inani intellegam cu ius. Sed quas summo ea, cu ipsum doming consectetuer has, dicam volumus ei usu. Usu ullum dolorum et. Usu ut option invidunt, in per causae facilisis accusamus. Eum nibh movet ea, aperiam elaboraret in vim.",
+	"link":"#"
+	}
+]

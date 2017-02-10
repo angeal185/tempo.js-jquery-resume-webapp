@@ -1,0 +1,42 @@
+﻿/*first*/
+var aside = 
+{
+	"label":"Personal Resume",
+	"name":"Ben Eaves",
+	"contact":"#",
+	"download":"#"
+};
+
+var profile = 
+{
+	"image":"images/portrait.jpg",
+	"name":"ben eaves",
+	"job":"Web Developer",
+	"location":"Melbourne, Australia"
+};
+
+var navigation = [
+	{"href":"1","title":"ABOUT","icon":"home"},
+	{"href":"2","title":"RESUME","icon":"newspaper-o"},
+	{"href":"3","title":"SERVICES","icon":"laptop"},
+	{"href":"4","title":"PROCESS","icon":"users"},
+	{"href":"5","title":"SKILLS","icon":"diamond"},
+	{"href":"6","title":"WORKS","icon":"archive"},
+	{"href":"7","title":"CONTACT","icon":"paper-plane"}
+];
+
+var social = [
+	{"href":"#","icon":"facebook"},
+	{"href":"#","icon":"twitter"},
+	{"href":"#","icon":"linkedin"},
+	{"href":"#","icon":"codepen"},
+	{"href":"#","icon":"github"}
+];
+
+var news = [
+	{"info":"Lorem ipsum dolor sit amet, sea at esse euismod patrioque, omnis accumsan oporteat ex vis. Graece aliquid ut nec, illud postea sed in. Has et quidam nostro, sit graeci fastidii appetere et, id duo adipisci ullamcorper complectitur. Nominati dissentiunt te his, ferri autem malorum mei ne. Per alterum lucilius deseruisse ex, civibus nominavi explicari ius ex, quem nullam putent pri in."},
+	{"info":"Lorem ipsum dolor sit amet, sea at esse euismod patrioque, omnis accumsan oporteat ex vis. Graece aliquid ut nec, illud postea sed in. Has et quidam nostro, sit graeci fastidii appetere et, id duo adipisci ullamcorper complectitur. Nominati dissentiunt te his, ferri autem malorum mei ne. Per alterum lucilius deseruisse ex, civibus nominavi explicari ius ex, quem nullam putent pri in."},
+	{"info":"Lorem ipsum dolor sit amet, sea at esse euismod patrioque, omnis accumsan oporteat ex vis. Graece aliquid ut nec, illud postea sed in. Has et quidam nostro, sit graeci fastidii appetere et, id duo adipisci ullamcorper complectitur. Nominati dissentiunt te his, ferri autem malorum mei ne. Per alterum lucilius deseruisse ex, civibus nominavi explicari ius ex, quem nullam putent pri in."},
+	{"info":"Lorem ipsum dolor sit amet, sea at esse euismod patrioque, omnis accumsan oporteat ex vis. Graece aliquid ut nec, illud postea sed in. Has et quidam nostro, sit graeci fastidii appetere et, id duo adipisci ullamcorper complectitur. Nominati dissentiunt te his, ferri autem malorum mei ne. Per alterum lucilius deseruisse ex, civibus nominavi explicari ius ex, quem nullam putent pri in."},
+	{"info":"Lorem ipsum dolor sit amet, sea at esse euismod patrioque, omnis accumsan oporteat ex vis. Graece aliquid ut nec, illud postea sed in. Has et quidam nostro, sit graeci fastidii appetere et, id duo adipisci ullamcorper complectitur. Nominati dissentiunt te his, ferri autem malorum mei ne. Per alterum lucilius deseruisse ex, civibus nominavi explicari ius ex, quem nullam putent pri in."}
+];
